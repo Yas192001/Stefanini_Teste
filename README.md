@@ -1,7 +1,7 @@
 # Stefanini_Teste
  Teste Yasmin
  
- Meu teste utliza o selenium, cucumber e o junit. O modo de executa-lo é abrindo a pasta executa e executando o teste pelo junit, para poder gerar um reporte por html.
+ Meu teste utiliza o selenium, cucumber e o junit. O modo de executa-lo é abrindo a pasta executa e executando o teste pelo junit, para poder gerar um reporte por html.
  Os sprints estão na pasta src, evidencias.
  O meu reporte html esta na pasta target, report.html.
  O teste pode ser executado utilizando só o BDD, mas também executando com o junit na class executa ele gera o reporte html.
